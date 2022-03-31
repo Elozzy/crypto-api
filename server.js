@@ -12,7 +12,7 @@ const ErrorHandler = require("./utils/ErrorHandler");
 // require route
 const allRoutes = require("./routes");
 const swaggerUi = require("swagger-ui-express");
-const swaggerDocument = require("./boilerplatedoc.json");
+const swaggerDocument = require("./crypto.json");
 
 const PORT = process.env.PORT || 4000;
 

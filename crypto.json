@@ -1,9 +1,9 @@
 {
     "swagger": "2.0",
     "info": {
-      "description": "Boilerplate api documentation",
+      "description": "crypto api documentation",
       "version": "1.0.0",
-      "title": "Boilerplate Doc",
+      "title": "crypto Doc",
       "contact": {
         "email": ""
       }
