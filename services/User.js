@@ -9,3 +9,4 @@ const {
 class User {}
 
 module.exports = User;
+
